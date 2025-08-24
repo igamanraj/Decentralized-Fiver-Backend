@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+{"root":["./src/index.ts","./src/middleware.ts","./src/types.ts","./src/routers/user.ts","./src/routers/worker.ts"],"version":"5.9.2"}
+=======
+{"root":["./src/config.ts","./src/index.ts","./src/middleware.ts","./src/types.ts","./src/routers/db.ts","./src/routers/user.ts","./src/routers/worker.ts"],"version":"5.9.2"}
+>>>>>>> 264e75c (worker route completed)
